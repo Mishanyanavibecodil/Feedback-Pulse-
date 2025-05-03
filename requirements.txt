@@ -1,0 +1,6 @@
+selenium==4.15.2
+beautifulsoup4==4.12.2
+textblob==0.17.1
+python-telegram-bot==20.7
+webdriver-manager==4.0.1
+langdetect==1.0.9 
